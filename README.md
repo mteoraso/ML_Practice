@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mteoraso
-- 👀 I’m interested in innovations in the energy industry to provide solutions in for climatic change and global warming
+- 👀 I’m interested in innovations in the energy industry to provide solutions for climatic change and global warming
 - 🌱 I’m currently learning data science, machine learning, hydrogen and green finance
 - 💞️ I’m looking to collaborate on collaborative energy solutions, hydrogen model´s and data products
 
